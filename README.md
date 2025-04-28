@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Elegant Page</title>
+    <video src="https://github.com/SawWinNyein/sawwinnyein-11.github.io/blob/main/sample-10s.mp4" width="300" height="300" controls></video>
     <style>
         /* Reset and base styles */
         * {
